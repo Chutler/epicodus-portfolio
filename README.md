@@ -28,7 +28,11 @@ An HTML page built as a portfolio landing page for the first indepentent project
 * Place index.html file in webhost root
 * Transfer CSS directory
 
-Note: this project leverages Bootstrap.
+Note: this project leverages Bootstrap 4.3.1
+
+## Link to site on GitHub Pages
+
+[Epicodus Portfolio on GitHup Pages](https://www.git/blah "Epicodus Intro to Programming")
 
 ## Known Bugs
 
@@ -40,11 +44,11 @@ Contact: craig at craighutler.com
 
 ## Technologies Used
 
-HTML, CSS, Bootstrap
+HTML, CSS, Bootstrap 4
 
 # Released under MIT License
 
-Copyright (c) 2015 **Craig Hutler**
+Copyright (c) 2019 **Craig Hutler**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 

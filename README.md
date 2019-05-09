@@ -32,7 +32,7 @@ Note: this project leverages Bootstrap 4.3.1
 
 ## Link to site on GitHub Pages
 
-[Epicodus Portfolio on GitHup Pages](https://www.git/blah "Epicodus Intro to Programming")
+[Epicodus Portfolio on GitHup Pages](https://chutler.github.io/epicodus-portfolio "Epicodus Intro to Programming")
 
 ## Known Bugs
 

@@ -2,6 +2,14 @@
   border-radius: 50%;
 }
 
+a:hover {
+  background-color: yellow;
+}
+
+.right {
+  float: right;
+}
+
 /* h1 {
     font-weight: bold;
     color: blue;
